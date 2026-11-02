@@ -1,0 +1,15 @@
+# 메시지 원문 / 진행 기록 — 절대 커밋 금지
+scan.json
+*.json
+deleted.log
+*.log
+
+# 환경 변수 / 토큰
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
